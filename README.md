@@ -1,5 +1,5 @@
 
-# Bluetooth device pair with dual
+# Bluetooth device pair with dual os
 
 [Reference](https://desktopi18n.wordpress.com/2018/02/02/bluetooth-mouse-in-dual-boot-of-windows-10-and-linux/)
 
